@@ -17,7 +17,7 @@ Click any icon to open the repository.
       <br/>
       <a href="https://github.com/SmoothForge/pymgcv"><b>pymgcv</b></a>
       <br/>
-      <sub>Pythonic GAM utilities for R workflows</sub>
+      <sub>A Python interface to mgcv</sub>
     </td>
     <td align="center" width="33%" style="border:none;padding:8px;">
       <a href="https://github.com/mfasiolo/mgcViz">
