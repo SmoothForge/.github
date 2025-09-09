@@ -18,15 +18,15 @@ Our goals:
 > remotes::install_github("SmoothForge/REPO")
 > ```
 
-### Package Gallery
+### Package Gallery (Hex Icon Badges)
 
-Click any icon to visit the repository.
+Each badge is an SVG hexagon; click any icon to open the repository.
 
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/SmoothForge/pymgcv">
-        <img src="./assets/pymgcv-icon.svg" alt="pymgcv icon" width="160" />
+        <img src="./assets/pymgcv-icon.svg" alt="pymgcv icon" width="180" />
       </a>
       <br/>
       <a href="https://github.com/SmoothForge/pymgcv"><b>pymgcv</b></a>
@@ -35,7 +35,7 @@ Click any icon to visit the repository.
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/mfasiolo/mgcViz">
-        <img src="./assets/mgcViz-icon.svg" alt="mgcViz icon" width="160" />
+        <img src="./assets/mgcViz-icon.svg" alt="mgcViz icon" width="180" />
       </a>
       <br/>
       <a href="https://github.com/mfasiolo/mgcViz"><b>mgcViz</b></a>
@@ -44,7 +44,7 @@ Click any icon to visit the repository.
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/mfasiolo/qgam">
-        <img src="./assets/qgam-icon.svg" alt="qgam icon" width="160" />
+        <img src="./assets/qgam-icon.svg" alt="qgam icon" width="180" />
       </a>
       <br/>
       <a href="https://github.com/mfasiolo/qgam"><b>qgam</b></a>
@@ -55,30 +55,30 @@ Click any icon to visit the repository.
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/mfasiolo/gamFactory">
-        <img src="./assets/gamFactory-icon.svg" alt="gamFactory icon" width="160" />
+        <img src="./assets/gamFactory-icon.svg" alt="gamFactory icon" width="180" />
       </a>
       <br/>
       <a href="https://github.com/mfasiolo/gamFactory"><b>gamFactory</b></a>
       <br/>
-      <sub>GAM helpers &amp; pipelines</sub>
+      <sub>Nested smooth effects</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/eenticott/gamstackr">
-        <img src="./assets/gamstackr-icon.svg" alt="gamstackr icon" width="160" />
+        <img src="./assets/gamstackr-icon.svg" alt="gamstackr icon" width="180" />
       </a>
       <br/>
       <a href="https://github.com/eenticott/gamstackr"><b>gamstackr</b></a>
       <br/>
-      <sub>Model stacking for GAMs</sub>
+      <sub>Smooth model stacking</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/VinGioia90/SCM">
-        <img src="./assets/SCM-icon.svg" alt="SCM icon" width="160" />
+        <img src="./assets/SCM-icon.svg" alt="SCM icon" width="180" />
       </a>
       <br/>
       <a href="https://github.com/VinGioia90/SCM"><b>SCM</b></a>
       <br/>
-      <sub>Spline Component Models</sub>
+      <sub>Smooth covariance modelling</sub>
     </td>
   </tr>
 </table>
@@ -111,6 +111,5 @@ Each repository declares its own license. Unless otherwise noted, we default to 
 
 ### Notes
 
-- Icons are provided in `./assets/` as SVGs. You can change sizes directly in Markdown/HTML image tags without losing quality.
+- Icons are provided in `./assets/` as SVGs (hexagonal). You can change sizes directly in image tags without losing quality.
 - If any package is moved under the `SmoothForge` org, update the install instructions accordingly.
- 
